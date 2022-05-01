@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+.idea/workspace.xml
+*.iml
+*.jar
+*.idea/
+/target/

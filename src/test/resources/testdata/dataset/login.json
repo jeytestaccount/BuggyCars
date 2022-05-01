@@ -1,0 +1,10 @@
+{
+  "login valid": {
+    "username": "test444",
+    "password": "YyOMvv/66VivAzoxLszRUYLbt93hfmhP"
+  },
+  "login invalid": {
+    "username": "TestJey3",
+    "password": "zutGloYs1R8JbTEDpA8rdiisETUChqZP"
+  }
+}

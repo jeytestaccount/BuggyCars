@@ -1,0 +1,38 @@
+{
+  "make table": {
+    "column 1": "Model",
+    "column 2": "Rank",
+    "column 3": "Votes",
+    "column 4": "Comments"
+  },
+  "Bugatti": {
+    "model1": "Veyron",
+    "model2": "Chiron"
+  },
+  "Pagani": {
+    "model1": "Zonda",
+    "model2": "Huayra"
+  },
+  "Lamborghini": {
+    "model1": "Diablo",
+    "model2": "Murciélago",
+    "model3": "AVENTADOR",
+    "model4": "Reventón",
+    "model5": "Veneno",
+    "model6": "Countach",
+    "model7": "Miura",
+    "model8": "GALLARDO",
+    "model9": "HURACÁN",
+    "model10": "HOGAN"
+  },
+  "Lancia": {
+    "model1": "Rally 037",
+    "model2": "Delta",
+    "model3": "Stratos",
+    "model4": "Yupsilon"
+  },
+  "Pagani": {
+    "model1": "Zonda",
+    "model2": "Huayra"
+  }
+}

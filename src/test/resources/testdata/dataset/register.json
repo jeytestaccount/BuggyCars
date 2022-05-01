@@ -1,0 +1,16 @@
+{
+  "register valid": {
+    "username": "anbuneda",
+    "firstname": "TestFirst",
+    "lastname": "TestLast",
+    "password": "drPtyJSX+Rbyrv5OBp0CDlVU1jXpuMj5",
+    "confirm password": "drPtyJSX+Rbyrv5OBp0CDlVU1jXpuMj5"
+  },
+  "register invalid": {
+    "username": "anbuma",
+    "firstname": "TestFirst",
+    "lastname": "TestLast",
+    "password": "Mkgbh/EMGI+ePA47k6AdNA==",
+    "confirm password": "Mkgbh/EMGI+ePA47k6AdNA=="
+  }
+}
